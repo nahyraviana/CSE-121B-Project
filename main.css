@@ -25,7 +25,8 @@ header {
     padding: 50px 15px 15px;
 }
 
-header input {
+header input,
+h1 {
     width: 100%;
     max-width: 280px;
     padding: 10px 15px;
